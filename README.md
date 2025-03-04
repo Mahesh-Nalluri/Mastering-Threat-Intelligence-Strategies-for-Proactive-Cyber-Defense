@@ -1,4 +1,3 @@
-# Mastering-Threat-Intelligence-Strategies-for-Proactive-Cyber-Defense
 
 
 # **Mastering Threat Intelligence: Strategies for Proactive Cyber Defense**  
